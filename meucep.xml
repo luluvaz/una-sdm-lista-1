@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlcep>
+  <cep>32235-180</cep>
+  <logradouro>Rua Coronel Joaquim Afonso Rodrigues</logradouro>
+  <complemento></complemento>
+  <unidade></unidade>
+  <bairro>Industrial</bairro>
+  <localidade>Contagem</localidade>
+  <uf>MG</uf>
+  <estado>Minas Gerais</estado>
+  <regiao>Sudeste</regiao>
+  <ibge>3118601</ibge>
+  <gia></gia>
+  <ddd>31</ddd>
+  <siafi>4371</siafi>
+</xmlcep>
